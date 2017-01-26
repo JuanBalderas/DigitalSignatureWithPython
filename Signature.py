@@ -138,7 +138,6 @@ if __name__ == '__main__':
     stat1 = Label(vp, text="---")
     stat1.grid(column=1, row=6,pady=(20,20) )
 
-    Names.grid(column=5, row=7,pady=(20,20) )
 
     #Digital Signature
 
